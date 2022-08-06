@@ -40,8 +40,10 @@ html {
 }
 header {
   padding: 0px 9%;
-  position: sticky;
+  position: fixed;
   top: 0;
+  right: 0;
+  left: 0;
   background-color: var(--second-color);
 }
 .logo h3 {
